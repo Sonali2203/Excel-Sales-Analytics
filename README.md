@@ -7,8 +7,10 @@
   
     **2.** Conduct a comprehensive comparison between market performance and target of the company https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20report.pdf
   
-    **3.** Create a PnL statement by months
+    **3.** Create a PnL statement by months https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/PnL%20Statement%20by%20Months.pdf
+  
     **4.** Create a PnL statement by market https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/PnL%20statement%20by%20Markets.pdf
+  
     **5.** Create a PnL statement by Fiscal year
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
