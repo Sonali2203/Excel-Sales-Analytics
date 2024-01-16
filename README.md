@@ -5,7 +5,7 @@
 
     **1.** Create a customer performance report https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/customer%20perfromence%20report.pdf
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20report.pdf
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
