@@ -4,9 +4,11 @@
 - **Project objective:** 
 
     **1.** Create a customer performance report https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/customer%20perfromence%20report.pdf
+  
     **2.** Conduct a comprehensive comparison between market performance and target of the company https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20report.pdf
+  
     **3.** Create a PnL statement by months
-    **4.** Create a PnL statement by market
+    **4.** Create a PnL statement by market https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/PnL%20statement%20by%20Markets.pdf
     **5.** Create a PnL statement by Fiscal year
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
