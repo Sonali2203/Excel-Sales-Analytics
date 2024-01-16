@@ -11,7 +11,7 @@
   
     **4.** Create a PnL statement by market https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/PnL%20statement%20by%20Markets.pdf
   
-    **5.** Create a PnL statement by Fiscal year
+    **5.** Create a PnL statement by Fiscal year https://github.com/Sonali2203/Excel-Sales-Analytics/blob/main/PnL%20statement%20by%20Fiscal%20Year.pdf
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
